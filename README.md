@@ -1,6 +1,6 @@
 # Traffic Congestion Prediction - Didi Dataset
 
-The repository is to predict traffic congestion with Didi dataset.
+The repository is to predict traffic congestion using Didi dataset.
 
 
 ## Requirements
