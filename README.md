@@ -17,7 +17,7 @@ The repository is to predict traffic congestion using Didi dataset.
 
 
 
-## Solutiin and Results
+## Solution and Results
 
 It's diffcult to process massive data using traditional approaches, so we chose to use PySpark to process the data.
 
